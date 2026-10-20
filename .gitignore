@@ -1,0 +1,8 @@
+tmp/
+dist/
+evidence/
+__pycache__/
+*.pyc
+*.sqlite3*
+*.db
+.env
