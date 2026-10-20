@@ -10,6 +10,9 @@
 
 | 能力 | 用法 |
 |---|---|
+| 星座聊天 | “她说我们星座不合，怎么自然接话？” |
+| 术语与盘面 | “帮我解释截图里的上升和金星，模糊的地方别猜” |
+| 紫微话题 | “夫妻宫、四化是什么意思？不要给我下命运结论” |
 | 自然口吻 | “短一点，别像报告”“这次认真点，别开玩笑” |
 | 对话陪练 | “陪我练一次邀约，一轮一句，结束后再点评” |
 | 行动复盘 | “我按上次建议做了，这是实际反馈，帮我修正下一步” |
@@ -17,10 +20,12 @@
 
 它们是在上游已有能力上的增强，不把改名或细化当作首创。保留原有情绪支持、聊天材料分析、多对象背景、冲突与修复、多元关系及可撤销的精简档案。
 
+本版新增7份原创指南，参考文档合计55份。新增内容属于传统文化话题、聊天素材与读图规则；没有打包排盘引擎、付费API或本机插件。真实排盘需要宿主另有已验证工具，不能仅凭安装本包自动获得。来源与候选工具见[星盘工具与宿主适配](references/practical/星盘工具与宿主适配.md)。
+
 ## 下载与安装
 
-- [下载根目录ZIP（豆包导入试用）](https://github.com/shengyu926/youzhao/raw/refs/heads/main/downloads/youzhao-v0.1.2.zip)
-- [下载技能文件夹ZIP（Claude网页上传；Codex/Claude Code也可解压安装）](https://github.com/shengyu926/youzhao/raw/refs/heads/main/downloads/youzhao-v0.1.2-folder.zip)
+- [下载根目录ZIP（豆包导入试用）](https://github.com/shengyu926/youzhao/raw/refs/heads/main/downloads/youzhao-v0.2.0.zip)
+- [下载技能文件夹ZIP（Claude网页上传；Codex/Claude Code也可解压安装）](https://github.com/shengyu926/youzhao/raw/refs/heads/main/downloads/youzhao-v0.2.0-folder.zip)
 - [查看全部发行文件与校验值](https://github.com/shengyu926/youzhao/tree/main/downloads)
 
 这里提供的是带固定版本号的预览包，不是GitHub自动生成的完整源码ZIP。各宿主运行验证状态见下文。
@@ -38,7 +43,7 @@
 
 ### 豆包导入步骤（更名版待复测）
 
-使用本项目发行的 `youzhao-v0.1.2.zip`。不需要复制长提示词。
+使用本项目发行的 `youzhao-v0.2.0.zip`。不需要复制长提示词。
 
 1. 进入你的豆包工作环境；普通“对话”入口可能拒绝ZIP。以你实际具有的技能上传/导入入口为准。
 2. 上传ZIP，要求“请安装这份Youzhao技能包；若当前环境不支持安装，请明确说明，不要只读取附件后声称安装成功”。
@@ -65,7 +70,7 @@
 
 ## 资料与证据
 
-本版共48份参考文件：保留上游43份，新增自然表达指南和4份模块/研究文档。新增研究3条，只标已经完成的核验层级；没有打包论文或书籍全文，不宣称研究证明本Skill有效。来源登记见 `references/knowledge/youzhao-sources.json`，上游说明见[NOTICE](NOTICE.md)。
+本版共55份参考文档：保留上游43份，新增自然表达指南、4份模块/研究文档和7份星座紫微指南。新增研究3条、软件候选6项，分别标明核验层级和未集成状态；没有打包论文或书籍全文，不宣称研究证明本Skill有效。来源登记见 `references/knowledge/youzhao-sources.json`，上游说明见[NOTICE](NOTICE.md)。
 
 ## 开发与验证
 

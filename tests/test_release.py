@@ -20,7 +20,7 @@ class ReleaseTests(unittest.TestCase):
                 self.assertIn('SKILL.md', names)
                 self.assertIn('LICENSE', names)
                 self.assertIn('scripts/memory_store.py', names)
-                self.assertEqual(48, sum(n.startswith('references/') and n.endswith('.md') for n in names))
+                self.assertEqual(55, sum(n.startswith('references/') and n.endswith('.md') for n in names))
                 self.assertFalse(any(n.startswith(('tests/', 'tmp/', '.git/', 'evidence/')) for n in names))
                 self.assertFalse(any(n.endswith(('.sqlite3', '.db', '.pyc')) for n in names))
                 self.assertNotIn('scripts/build_release.py', names)

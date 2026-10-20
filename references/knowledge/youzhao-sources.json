@@ -43,5 +43,83 @@
     "full_text_distribution": "不分发；只链接和原创摘要",
     "runtime_status": "原创摘要已加入21号知识指南；全文仍未逐节审读",
     "checked_date": "2026-10-20"
+  },
+  {
+    "id": "YZ-T001",
+    "title": "SylarLong/iztro",
+    "url": "https://github.com/SylarLong/iztro",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 4241,
+    "root_license_snapshot": "MIT",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "可选紫微计算库",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
+  },
+  {
+    "id": "YZ-T002",
+    "title": "cosinekitty/astronomy",
+    "url": "https://github.com/cosinekitty/astronomy",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 1062,
+    "root_license_snapshot": "MIT",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "天体计算；不等于占星人格证据",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
+  },
+  {
+    "id": "YZ-T003",
+    "title": "g-battaglia/kerykeion",
+    "url": "https://github.com/g-battaglia/kerykeion",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 723,
+    "root_license_snapshot": "AGPL-3.0",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "占星数据结构与可选引擎调研",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
+  },
+  {
+    "id": "YZ-T004",
+    "title": "0xStarcat/CircularNatalHoroscopeJS",
+    "url": "https://github.com/0xStarcat/CircularNatalHoroscopeJS",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 377,
+    "root_license_snapshot": "Unlicense",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "较旧占星库后备调研",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
+  },
+  {
+    "id": "YZ-T005",
+    "title": "Renhuai123/ziwei-doushu",
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 5243,
+    "root_license_snapshot": "MIT at root; separate content licences",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "功能参考；不整仓复制",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
+  },
+  {
+    "id": "YZ-T006",
+    "title": "Horace-Maxwell/Horosa-Web-App-comprehensively-improved-Windows",
+    "url": "https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-Windows",
+    "kind": "software documentation, not relationship research",
+    "stars_snapshot": 407,
+    "root_license_snapshot": "AGPL-3.0",
+    "checked_date": "2026-10-20",
+    "verification": "GitHub API元数据和项目文档；未完整审计全部依赖或解读资料",
+    "use": "本机外部工具候选",
+    "runtime_status": "未集成；仅来源链接和原创概述",
+    "limit": "不代表科学预测效度；未引入第三方实现；集成前须固定版本并另审依赖及数据许可"
   }
 ]
