@@ -1,0 +1,18 @@
+{
+  "name": "youzhao",
+  "display_name": "Youzhao · 有招",
+  "version": "0.1.2",
+  "status": "preview",
+  "upstream": "https://github.com/shengjidaguai-china/goutoujunshi",
+  "upstream_commit": "6db7354a4002dc7c448a9c87ffdad8132570c9d3",
+  "release_channel": "github-preview",
+  "repository_published": true,
+  "target_hosts": [
+    "doubao-work",
+    "codex",
+    "claude-code",
+    "claude-ai"
+  ],
+  "host_model_runtime_tests": "pending per host; structural compatibility is not runtime certification",
+  "repository_url": "https://github.com/shengyu926/youzhao"
+}

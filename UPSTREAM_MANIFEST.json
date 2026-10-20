@@ -1,0 +1,270 @@
+{
+  "upstream": "https://github.com/shengjidaguai-china/goutoujunshi",
+  "commit": "6db7354a4002dc7c448a9c87ffdad8132570c9d3",
+  "files": [
+    {
+      "path": "references/knowledge/01-证据分级与内容边界.md",
+      "upstream_sha256": "14c5a2815c6932e68f256bce8bb240b967b8dbe8bd9e39ab6d2f1e0195a2d829",
+      "current_sha256": "9b28d1598a253837f43ab133cdb936084a6d20818e5a5d9b27cfcfe14c4fdbeb",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/02-亲密关系心理学总论.md",
+      "upstream_sha256": "c0d54c363f980304d3b5a368250e9d8956d2630008a639c2688275bcd06360ae",
+      "current_sha256": "791950799de076ce622dca85c6d67a3ac80715c2ca138e3b2ac035dd906181d5",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/03-依恋理论与情绪调节.md",
+      "upstream_sha256": "abc57d5619d932caa3a5d5e7f86051c639f338494db6133c65d79c19615ede60",
+      "current_sha256": "3a23188ca0f199676a3aa8908562457f1aee59d244fb00fe0e3780b98f689f24",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/04-MBTI人格与匹配.md",
+      "upstream_sha256": "9d3770cb3569bebb9b044ad3a87a3a97575e632ca11091d1fd5aa9f4facc2431",
+      "current_sha256": "be50295d2e944894a9dd5b3715352b754e2420508e58000255e47c12862f8ac9",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/05-PUA操控与伦理替代.md",
+      "upstream_sha256": "04cea5e99709f2c39144595004080733667f6b6c5a4860050f56f0d7c8e3cac3",
+      "current_sha256": "ea7664289c27c6fcb0ef709583ee10b0b6c0954c4f220a00f665eb74b4529cfb",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/06-吸引约会与关系启动.md",
+      "upstream_sha256": "4a3ffa371b11be44b2c37d0610151f4bd7f942ac656320ec8fc962ea3c24f460",
+      "current_sha256": "27168cba7b73b128e6db6b860dde92ea52a9cfe6ff0cfbcde78c1be25500b825",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/07-沟通冲突与修复.md",
+      "upstream_sha256": "f787bc457346a2c1be331826d4ebbdcb808248fab8f247532b97a3cf0a454d48",
+      "current_sha256": "440fadf71455dac36fbe291bffa2246e035f5dd0d9d7167cd9a129443375828b",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/08-同意边界性与亲密.md",
+      "upstream_sha256": "62ef3aa701076d1003be36edacf0f12b1091c74d292abdb12ea22513e1c8853d",
+      "current_sha256": "51688890c32a4f134f770d09c210e39361c50fa3753119836fd41b2d5b17c9b4",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/09-在线约会与数字关系.md",
+      "upstream_sha256": "df25a7abe534666d61437b4cd146462c9d9ea87fb7f6826d50f6d468da57281d",
+      "current_sha256": "8c46faff08e601591e12c92df99a0d224b3440a2586660ce70f36ae79479d9d5",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/10-恋爱哲学.md",
+      "upstream_sha256": "9c1c77b0aaac688d51c624597773a24e1a421bf44b7ae5e1fe49dc58ff85cd1d",
+      "current_sha256": "701cf03203d3544e059e7d463167b9cec3914f5fce2ed35af6c416cc80812120",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/11-婚姻家庭与生命周期.md",
+      "upstream_sha256": "ba3e77be93e59a9ad95fbeb748a506a0a69ca72f0b0910f8fbba0e2691169fb6",
+      "current_sha256": "644755f2e98ca18bd26e86cd8845fecf43cc122c16e5756ebc3166cb8bd7de6c",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/12-金钱家务育儿与双方家庭.md",
+      "upstream_sha256": "572e2de3e82aaeeba345b8933273329cfe2044bebc60f75be9afc68ed4205d70",
+      "current_sha256": "9395c909149b552fbd860f57b11cc1a6175d9e2d9518220cf660c38ca7da362c",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/13-现代婚姻变迁史.md",
+      "upstream_sha256": "d058762223b4964e62ce4666e51fd6c32d9077308f1e407a6a90f25008b5e956",
+      "current_sha256": "9e451325d546669c9fc7e48e56396940b5a86b7e8efba82fad16dac8dd0508db",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/14-社会发展与家庭变迁.md",
+      "upstream_sha256": "7443f7b456d44ecd1734e8ae1a86c3d9030fc0682c0b449b484e9a816b1ec9d5",
+      "current_sha256": "52d2928577f4c69458c03ac4aa0991749b5eaf7c5a4d860b0b458caa60d184e8",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/15-分手背叛与关系修复.md",
+      "upstream_sha256": "6a8a8dcca9f1332cceab0a20871cace3194dbb7f3c2658f4a8b225270c146c33",
+      "current_sha256": "95532db79ce3119774956f2c2f8cfccde1a84c35c15f5963057389ad6cec1f05",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/16-多元关系与反刻板印象.md",
+      "upstream_sha256": "f2c407ecf13bf5b09037ac08b3810bb8e37095c3c6185ff4928675ce502f35eb",
+      "current_sha256": "8276f70a42d3dccb53c9015b2519761eec3743e696f7572e2c6d8d60b77dc446",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/17-中国法律安全与危机转介.md",
+      "upstream_sha256": "d59805633112fa6f975e87ef35a4ebe10bff9a0bac1fe90396ec6d99e564bb64",
+      "current_sha256": "d8a34ca0b20c14e2b7c996c4bcb2cb7774cb94bc99660b66262a95d5aa5ec9c8",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/18-实用练习与对话卡.md",
+      "upstream_sha256": "9187358745e850e9dec9e816f904676b2b12849ab5131957e03f799eddad568c",
+      "current_sha256": "b4040cf5de8fd505380518df8982e92d140954d05bc5c305694a7212630e69a7",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/19-核心书单与论文索引.md",
+      "upstream_sha256": "a4c60e3a24e670847ff6169584920da2f75d1a53ce085798e1674b6deecfc7ea",
+      "current_sha256": "cd968abfc85d5812c26c5aca50a5a075e92db1c1c99574e7df6e214758d77605",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/knowledge/20-经典社交体系的机制、证据与风险边界.md",
+      "upstream_sha256": "c353af617b37eb41ebf8b9250fbcf758abf6018187114d141e5c75db6898b732",
+      "current_sha256": "9f61db17ef76314b51ac077a908923ab7b379a2d819b040c67fa3e9ed7251faa",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/00-导读与使用分级.md",
+      "upstream_sha256": "2b50b40fb1b16dc1b255d6a9c46e4b2ac2a334dcd2b0da032e19f136c776eb86",
+      "current_sha256": "4403632c5f655eb9d7cf59032dfe202ae90512e6cbf3721c19e5cb4855802c8f",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/ChatLab聊天记录分析适配.md",
+      "upstream_sha256": "6b9d26a247ff1cc8828b950d27b6357c484baffd3cdca673c6b5ce728bb7e5b4",
+      "current_sha256": "350c72574bbb6b02bd8e34fed6401280926c5b604dd3a9c1b31f36d43edb4a48",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/万能吵架技巧：理性冲突处理指南.md",
+      "upstream_sha256": "8c4dec29beca4318c511a823715d311f325abfec2d821e39e4098fa68967bb5a",
+      "current_sha256": "ea8305e07aa5a4c58b3e15ce28950a6cc8da4862704aae70a4483f4639fa0a5e",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/万能夸人的话术技巧：真诚认可的实用指南.md",
+      "upstream_sha256": "66bfe9131d2c78451c452f05420e3b6a39e7deb7c2bc33897b641eb901a1672b",
+      "current_sha256": "fca5a133a09588de697883792e8024d6effd7dd229d41956b0542101242f2d77",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/为他人提供情绪价值：温暖且有效的回应指南.md",
+      "upstream_sha256": "d303283668772290206703a440c80242d1a4fd9738c4b65a464a60c3b940c778",
+      "current_sha256": "565c7b4b9e27993a92de6339e403f9f82ededa87dc1e205d4602742ad6693c8b",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/主动表达、第一次见面与自然接触.md",
+      "upstream_sha256": "c0ff8ba59a6e4926fcf8f08b76357d9dc01f06d432dc1356fe72f3d4c7dcc6d8",
+      "current_sha256": "bd52dec6e84d0e986b5c56edd1320e23254d48d00be5dc249a555063d071abff",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/公开表达案例的伦理转译.md",
+      "upstream_sha256": "83748ace134a9407f781a10670695f46ba363ca3da1df75ba167e6c2a601db81",
+      "current_sha256": "16e6f5b89cf682581d671bc09d181483549ad5135d14c93ae61db18e69bd62df",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/关系投入失衡：互惠判断、降级投入与退出决策.md",
+      "upstream_sha256": "acebcd591f040231255e8cdef210c7e02c1188494e65f63af869dc85ab937f18",
+      "current_sha256": "4e724e9a5b272ad1a6833ddbb9d84eeb86c3b2e395e5f241d90f8655930c77c3",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/化解尴尬：轻松救场的实用指南.md",
+      "upstream_sha256": "a3c017f00cf1cada12c7f4140ad597c2b37d14e88be535942b9acc3be9d07d7f",
+      "current_sha256": "e87b3e90c1c3fbe17708d1b7bcc43549f8d042d7653c7fd48d7dbb5b0b7c5fcb",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/场景感、松弛感与社交校准：从接话到关系推进.md",
+      "upstream_sha256": "419a02a379f02827678f7f1b8ed3c254f1da0347b8f8b13ed39aa232bb9d2087",
+      "current_sha256": "01864b3713a8b25bd310a3678b44d2e937ce3a2817c381090d8ba71ab534c4d5",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/实战话术编排器：从一句回复到后续分支.md",
+      "upstream_sha256": "6b0b955c8395a24f3511ad432cdec10673ad800de2e6c33849beff57249e6ca3",
+      "current_sha256": "83014b57788a4d6cfe4cb82fe224d81ee5e9ac6d6e84f7ac67097d06828cb7fe",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/巧妙接话技巧：让沟通更流畅的实用指南.md",
+      "upstream_sha256": "d937da8468eea340911b597e2df5afd04009ae2f6bd3dbcdb65f64f39095aa89",
+      "current_sha256": "62c4a2e3d479e1e41fbeb34d7dda7d477c742bf172fd67567ea1af53ee5b71f5",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/废话文学回复指南：轻松应对各类场景.md",
+      "upstream_sha256": "75c93a33f2515384b6c046c609e6a97febff848614038c7ecb0afef6a8189507",
+      "current_sha256": "e3bffac19601217721aa2dec00c725a7b49240d71d95136c4e3ce6756d884b2d",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/托人办事的高效话术指南.md",
+      "upstream_sha256": "0383f1d18367413a5bdf54dcd21fc0cce074b2bbec9e065dfd91b84307cc7dd0",
+      "current_sha256": "dc07cde003b5a9b0993d27086fa1bcada85d1ff689a977a60af20c5d96523191",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/提升表达逻辑性：从混乱到清晰的实用指南.md",
+      "upstream_sha256": "bc3c8a36e8e6c32980dd2d93c4b57e7460bb7df5f40ad66763d55d16e9334c70",
+      "current_sha256": "b373c5ce25a3759ffc80830bf7b4cd877a0dca01320fcaedfd54e364b17db67a",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/提高气场：从内到外的力量感塑造指南.md",
+      "upstream_sha256": "704e778774463fee1e40df2053d570473a761dde32eae3acaa97e61820a3a74e",
+      "current_sha256": "cd3121d022a6fde3876725a29e66f5f7ada0f68e4d02177a4eb625c2c265fa21",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/有效拓展人脉：从建立到维护的实用指南.md",
+      "upstream_sha256": "7a6ad86d0b68066403fd907f67139ee846bd8b04429e00246bd673e467a7823c",
+      "current_sha256": "3089417510bc969716cb9acf047514e2a2ed3929306ffc2572eef90d19cbd702",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/聊天化被动为主动：引导互动的实用指南.md",
+      "upstream_sha256": "006fb63f852e7f1f569b426b28bdf9f241769561aa2a63c1d7e5a56dd87d2b39",
+      "current_sha256": "bf18a460fc97ac45d14abeaf6a84f92b7c8f9afaaee914f30bb1fd162f96a585",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/自然流、内在状态与结构化互动：伦理能力转译.md",
+      "upstream_sha256": "9835556feadbd576311f3c1ce44826194bbf25555e72d72c929b45a08a1ea012",
+      "current_sha256": "9e5ed2c2cdef61de8ca62d8d04f4e4c2fb23854d31d8bba01afc136d30f228ed",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/获得领导青睐：从价值匹配到信任建立的实用指南.md",
+      "upstream_sha256": "e81ce6035dafe76025618655d9839f2b78ee55bf590eb5d8dc00337ea58b516f",
+      "current_sha256": "0eacd563a3531401a6361c52878c74bb2a1473e9c68dc6e603fa721ed9840118",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/被孤立如何破局：从自我调适到建立连接的实用指南.md",
+      "upstream_sha256": "2d0daab68540c5e510de3af46bfce3fe432797a6d881f646d7de98a366b8ac03",
+      "current_sha256": "573bce0c441fb605c255073b8c50d5e6f21106e6f1015742c0ce6544d7617365",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/长期记忆与关系档案.md",
+      "upstream_sha256": "ae66de244885fa7342355fadb719c46538e0843f8909aecd86cb9460df867a5e",
+      "current_sha256": "eef5d75f3351d5b6b0da83ac5c04f6478fcbb338ed97e1f275c55c3d81f9b074",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "references/practical/高情商拒绝他人：体面护边界的实用指南.md",
+      "upstream_sha256": "763f079ff9badfe002cce4747b42e887c815a1ef99b9ee860ec8ff1666575772",
+      "current_sha256": "d34c76a00cd07d8337065f327b154483882b7d1787297aa52fe791aab300872b",
+      "action": "adapted: branding, optional fields, natural expression or line-ending normalization"
+    },
+    {
+      "path": "scripts/memory_store.py",
+      "upstream_sha256": "1d276c309df9ee51c3b6fdc068f895405d2dd4a50915ace4337c3668d801c23c",
+      "action": "adapted: separate youzhao namespace; storage policies retained",
+      "current_sha256": "6206ce35b8380305cb16f044264f5c7203bfbecc07fc2d6eaf8526a7427ecbb7"
+    }
+  ]
+}

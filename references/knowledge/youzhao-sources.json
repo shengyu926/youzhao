@@ -1,0 +1,47 @@
+[
+  {
+    "id": "YZ-R001",
+    "title": "A Randomized Controlled Trial of the Web-Based OurRelationship Program: Effects on Relationship and Individual Functioning",
+    "authors": "Doss et al.",
+    "year": 2016,
+    "doi": "10.1037/ccp0000063",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4804631/",
+    "method": "随机分配300对异性伴侣参加线上项目或等候组；项目包括活动和工作人员支持",
+    "verification": "已核实文章元数据、摘要及搜索返回的方法说明；未逐节审读全文",
+    "use": "候选：有结构的关系练习与回看",
+    "limit": "研究对象是具体干预方案，不是当前AI Skill；不能把其效果量或改善结论移植给本产品，也不照搬受保护课程",
+    "full_text_distribution": "不分发；只链接和原创摘要",
+    "runtime_status": "原创摘要已加入21号知识指南；全文仍未逐节审读",
+    "checked_date": "2026-10-20"
+  },
+  {
+    "id": "YZ-R002",
+    "title": "Recovering from conflict in romantic relationships: a developmental perspective",
+    "authors": "Salvatore, Kuo, Steele, Simpson, Collins",
+    "year": 2011,
+    "doi": "10.1177/0956797610397055",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21245491/",
+    "method": "73名年轻目标参与者及其伴侣，观察冲突后恢复并结合纵向资料",
+    "verification": "已核实元数据及摘要；未逐节审读全文",
+    "use": "候选：冲突后的恢复与回到议题",
+    "limit": "关联研究，年轻样本且文化范围有限；不能作因果诊断或把实验任务时长当现实降温处方",
+    "full_text_distribution": "不分发；只链接和原创摘要",
+    "runtime_status": "原创摘要已加入21号知识指南；全文仍未逐节审读",
+    "checked_date": "2026-10-20"
+  },
+  {
+    "id": "YZ-R003",
+    "title": "Absence Makes the Communication Grow Fonder: Geographic Separation, Interpersonal Media, and Intimacy in Dating Relationships",
+    "authors": "L. Crystal Jiang; Jeffrey T. Hancock",
+    "year": 2013,
+    "doi": "10.1111/jcom.12029",
+    "url": "https://academic.oup.com/joc/article-abstract/63/3/556/4086003",
+    "method": "日记研究；考察异地、媒介、自我披露与理想化，样本细节待全文审读",
+    "verification": "出版方页面的元数据与摘要已核实；全文未审读",
+    "use": "候选：异地联系和现实校准",
+    "limit": "不能推出异地优于同城、每天联系的固定次数或适用于所有关系的因果结论",
+    "full_text_distribution": "不分发；只链接和原创摘要",
+    "runtime_status": "原创摘要已加入21号知识指南；全文仍未逐节审读",
+    "checked_date": "2026-10-20"
+  }
+]
