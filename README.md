@@ -267,6 +267,10 @@ python -B -X utf8 scripts/build_release.py --output dist --layout folder
 
 如果有招帮你少一点纠结，欢迎点亮一个 ⭐，方便以后找到更新，也让更多需要的人发现它。
 
+## 零面AI的爱发电主页
+
+本项目维护者「零面AI」已入驻爱发电：[零面AI · 爱发电](https://afdian.com/a/lingmianai)。该链接用于创作者身份关联；当前正在申请平台认证，商品尚未完成上架。具体商品、交付范围和售后以审核后发布的商品页面为准。开源代码继续按本仓库 MIT 许可提供。
+
 ## 来源与开源协议
 
 有招基于 [goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) 的 MIT 版本独立维护，保留原作者版权与许可。品牌、自然表达、补充指南及适配改动见 [NOTICE](NOTICE.md)，不把上游已有能力说成本项目首创。
